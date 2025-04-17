@@ -6,7 +6,7 @@
 #include <sys/types.h>
 #include <stdint.h>
 #include <stddef.h>
-// SADFSDA fsdaf sdaf asdfasdf 
+
 /* From <sys/kern_control.h> */
 #define CTLIOCGINFO 0xc0644e03UL
 struct ctl_info {
